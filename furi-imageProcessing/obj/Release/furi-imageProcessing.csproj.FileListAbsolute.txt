@@ -1,0 +1,11 @@
+D:\Documents\GitHub\furi-imageProcessing\furi-imageProcessing\bin\Release\furi-imageProcessing.exe.config
+D:\Documents\GitHub\furi-imageProcessing\furi-imageProcessing\bin\Release\furi-imageProcessing.exe
+D:\Documents\GitHub\furi-imageProcessing\furi-imageProcessing\bin\Release\furi-imageProcessing.pdb
+D:\Documents\GitHub\furi-imageProcessing\furi-imageProcessing\obj\Release\furi-imageProcessing.csproj.AssemblyReference.cache
+D:\Documents\GitHub\furi-imageProcessing\furi-imageProcessing\obj\Release\furi-imageProcessing.csproj.SuggestedBindingRedirects.cache
+D:\Documents\GitHub\furi-imageProcessing\furi-imageProcessing\obj\Release\furi_imageProcessing.Form1.resources
+D:\Documents\GitHub\furi-imageProcessing\furi-imageProcessing\obj\Release\furi_imageProcessing.Properties.Resources.resources
+D:\Documents\GitHub\furi-imageProcessing\furi-imageProcessing\obj\Release\furi-imageProcessing.csproj.GenerateResource.cache
+D:\Documents\GitHub\furi-imageProcessing\furi-imageProcessing\obj\Release\furi-imageProcessing.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\furi-imageProcessing\furi-imageProcessing\obj\Release\furi-imageProcessing.exe
+D:\Documents\GitHub\furi-imageProcessing\furi-imageProcessing\obj\Release\furi-imageProcessing.pdb
